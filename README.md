@@ -14,3 +14,7 @@
 <li>After learning Front-End programming, I will learn Back-End programming</li>
 <li>And this passion for learning will continue forever in the endless programming paradise</li>
 </ul>
+<br>
+<br>
+<br>
+[GitHub Statistic] https://github-readme-stats.vercel.app/api?username=vugarjumshudlu&count_private=true&show_icons=true&theme=radical
