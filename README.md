@@ -17,6 +17,10 @@
 <br>
 <br>
 <br>
+https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff
+<br>
+<br>
+<br>
 ![GitHub Statistic] https://github-readme-stats.vercel.app/api?username=vugarjumshudlu&count_private=true&show_icons=true&theme=radical
 <br>
 <br>
