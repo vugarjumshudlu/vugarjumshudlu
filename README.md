@@ -17,4 +17,4 @@
 <br>
 <br>
 <br>
-[GitHub Statistic] https://github-readme-stats.vercel.app/api?username=vugarjumshudlu&count_private=true&show_icons=true&theme=radical
+![GitHub Statistic] https://github-readme-stats.vercel.app/api?username=vugarjumshudlu&count_private=true&show_icons=true&theme=radical
