@@ -18,3 +18,7 @@
 <br>
 <br>
 ![GitHub Statistic] https://github-readme-stats.vercel.app/api?username=vugarjumshudlu&count_private=true&show_icons=true&theme=radical
+<br>
+<br>
+<br>
+![Top Languages]https://github-readme-stats.vercel.app/api/top-langs/?username=vugarjumshudlu&show_icons=true&theme=radical
